@@ -111,6 +111,12 @@ h1 {
   right: 2rem;
 }
 
+@media screen and (max-width: 768px) {
+  .between {
+      font-size: 0.7rem;
+  }
+}
+
 .again {
   position: absolute;
   top: 2rem;
