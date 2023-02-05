@@ -201,3 +201,8 @@ h1 {
   color: #fff;
   text-align: center;
 }
+
+.gamespace-link {
+  text-decoration: none;
+  color: white;
+}
