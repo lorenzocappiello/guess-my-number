@@ -177,8 +177,7 @@ h1 {
 @media screen and (max-width: 428px) {
   .guess {
       font-size: 2.7rem; 
-      margin-top: -6px; 
-      margin-bottom: -6px; 
+      margin-top: -12px; 
   }
 }
 
