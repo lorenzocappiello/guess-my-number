@@ -156,6 +156,13 @@ h1 {
   align-items: center;
 }
 
+@media screen and (max-width: 428px) {
+  .left {
+      margin-bottom: -24px; 
+  }
+}
+
+
 .right {
   margin-top: -96px;   
   width: 52rem;
