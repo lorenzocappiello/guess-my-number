@@ -33,6 +33,12 @@ main {
   justify-content: space-around;
 }
 
+@media screen and (max-width: 428px) {
+  main {
+      margin-top: -12px; 
+  }
+}
+
 .footer {
   margin-top: -12px; 
   margin-bottom: 24px; 
