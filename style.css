@@ -208,7 +208,7 @@ h1 {
 
 @media screen and (max-width: 428px) {
   .message, .label-score, .label-highscore {
-      font-size: 16px; 
+      font-size: 12px; 
   }
 }
 
