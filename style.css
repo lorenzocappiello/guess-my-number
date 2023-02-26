@@ -255,7 +255,7 @@ h1 {
 
 @media screen and (max-width: 428px) {
   .label-score, .label-highscore {
-    margin-top: -36px; 
+    margin-top: -24px; 
   }
 }
 
