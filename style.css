@@ -111,6 +111,12 @@ h1 {
   transform: translate(-50%, 50%);
 }
 
+@media screen and (max-width: 428px) {
+  .number {
+      margin-bottom: -12px; 
+  }
+}
+
 /* Game Section */ 
 
 .game {
