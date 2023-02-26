@@ -136,6 +136,12 @@ h1 {
   font-size: 2rem;
 }
 
+@media screen and (max-width: 428px) {
+  .right {
+      margin-bottom: -24px; 
+  }
+}
+
 @media screen and (max-width: 768px) {
     .game-content {
         flex-direction: column;
@@ -209,7 +215,6 @@ h1 {
 @media screen and (max-width: 428px) {
   .message, .label-score, .label-highscore {
       font-size: 12px; 
-      margin-bottom: -4px; 
   }
 }
 
