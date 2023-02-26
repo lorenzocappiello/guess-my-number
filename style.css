@@ -46,7 +46,7 @@ main {
 
 @media screen and (max-width: 428px) {
   .footer {
-      margin-top: -18px; 
+      margin-top: -36px; 
   }
 }
 
@@ -250,12 +250,6 @@ h1 {
 @media screen and (max-width: 428px) {
   .message, .label-score, .label-highscore {
       font-size: 12px; 
-  }
-}
-
-@media screen and (max-width: 428px) {
-  .label-score, .label-highscore {
-    margin-top: -24px; 
   }
 }
 
