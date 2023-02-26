@@ -136,6 +136,12 @@ h1 {
   font-size: 2rem;
 }
 
+@media screen and (max-width: 428px) {
+  .right {
+      font-size: 1.5rem; 
+  }
+}
+
 @media screen and (max-width: 768px) {
     .game-content {
         flex-direction: column;
