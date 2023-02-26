@@ -50,7 +50,6 @@ main {
   }
 }
 
-
 /* Elements Layout */ 
 
 h1 {
@@ -211,6 +210,12 @@ h1 {
 .message {
   margin-bottom: 8rem;
   height: 3rem;
+}
+
+@media screen and (max-width: 428px) {
+  .message {
+      margin-bottom: -6px; 
+  }
 }
 
 @media screen and (max-width: 768px) {
