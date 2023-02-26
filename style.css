@@ -44,6 +44,13 @@ main {
   margin-bottom: 24px; 
 }
 
+@media screen and (max-width: 428px) {
+  .footer {
+      margin-top: -18px; 
+  }
+}
+
+
 /* Elements Layout */ 
 
 h1 {
@@ -250,11 +257,9 @@ h1 {
 
 @media screen and (max-width: 428px) {
   .copyright {
-      margin-top: -6px; 
       font-size: 6px; 
   }
 }
-
 
 .gamespace-link {
   text-decoration: none;
