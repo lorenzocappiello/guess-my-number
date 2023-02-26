@@ -72,6 +72,12 @@ h1 {
 
 /* Header */ 
 
+@media screen and (max-width: 428px) {
+  .title {
+      font-size: 2.2rem; 
+  }
+}
+
 @media screen and (max-width: 768px) {
   .title {
       font-size: 2.7rem; 
