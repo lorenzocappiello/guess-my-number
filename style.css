@@ -218,7 +218,6 @@ h1 {
 @media screen and (max-width: 428px) {
   .message {
       margin-top: -12px; 
-      visibility: hidden;
   }
 }
 
