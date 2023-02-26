@@ -248,6 +248,13 @@ h1 {
   text-align: center;
 }
 
+@media screen and (max-width: 428px) {
+  .copyright {
+      font-size: 6px; 
+  }
+}
+
+
 .gamespace-link {
   text-decoration: none;
   color: white;
