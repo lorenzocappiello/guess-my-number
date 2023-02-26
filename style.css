@@ -160,6 +160,7 @@ h1 {
 @media screen and (max-width: 428px) {
   .left {
     margin-top: -36px; 
+    margin-bottom: -24px; 
   }
 }
 
@@ -167,13 +168,6 @@ h1 {
   margin-top: -96px;   
   width: 52rem;
   font-size: 2rem;
-}
-
-
-@media screen and (max-width: 428px) {
-  .right {
-    margin-top: 48px; 
-  }
 }
 
 @media screen and (max-width: 768px) {
