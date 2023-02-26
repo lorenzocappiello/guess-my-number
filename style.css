@@ -134,7 +134,7 @@ h1 {
       font-size: 4rem;
       width: 10rem;
       margin-top: -12px; 
-      margin-bottom: -16px; 
+      margin-bottom: -12px; 
   }
 }
 
@@ -159,6 +159,7 @@ h1 {
 
 @media screen and (max-width: 428px) {
   .left {
+      margin-top: -12px; 
       margin-bottom: -28px; 
   }
 }
