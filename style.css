@@ -169,9 +169,10 @@ h1 {
   font-size: 2rem;
 }
 
+
 @media screen and (max-width: 428px) {
   .right {
-    margin-top: -36px; 
+    margin-top: 24px; 
   }
 }
 
