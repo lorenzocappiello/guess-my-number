@@ -158,10 +158,9 @@ h1 {
 
 @media screen and (max-width: 428px) {
   .left {
-      margin-bottom: -24px; 
+      margin-bottom: -28px; 
   }
 }
-
 
 .right {
   margin-top: -96px;   
@@ -172,7 +171,7 @@ h1 {
 @media screen and (max-width: 428px) {
   .right {
       margin-top: -24px; 
-      margin-bottom: -24px; 
+      margin-bottom: -36px; 
   }
 }
 
